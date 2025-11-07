@@ -63,12 +63,12 @@ experiences:
       details: |
         As part of the Telemetry and Licensing team, I design, build, and maintain the telemetry and mediation solutions that power F5’s product licensing ecosystem.
         My work ensures reliable data flow, automation, and scalability across a growing portfolio of F5 products.
-        Key Responsibilities:
-        - Develop and maintain backfill and cleanup scripts
-        - Design and support API endpoints
-        - Troubleshoot and resolve bugs in production code
-        - Implement automation to optimize workflows
-        - Maintain and improve CI/CD pipelines
+        - Key Responsibilities:
+          - Develop and maintain backfill and cleanup scripts
+          - Design and support API endpoints
+          - Troubleshoot and resolve bugs in production code
+          - Implement automation to optimize workflows
+          - Maintain and improve CI/CD pipelines
         - Tools: 
           - TypeScript
           - Azure DevOps
@@ -78,12 +78,12 @@ experiences:
       company: F5 NETWORKS, GUADALAJARA - REMOTE
       details: |
         The Software Development Engineer in Test (SDET) is an integral part of the agile delivery team and works with the Software Development Engineers (SDEs) to design, build, and support software deliveries. This team-oriented position develops and executes test automation in cooperation with the rest of the team.
-        Responsibilities include:
-        - Test automation
-        - Implementing pipeline-driven automated test suites
-        - Contributing to user stories in the team backlog
-        - Involvement in grooming/planning/Scrum meetings
-        - Demonstrating knowledge of continuous integration and automation tools
+        - Responsibilities include:
+          - Test automation
+          - Implementing pipeline-driven automated test suites
+          - Contributing to user stories in the team backlog
+          - Involvement in grooming/planning/Scrum meetings
+          - Demonstrating knowledge of continuous integration and automation tools
         - TOOLS:
           - Typescript
           - Azure DevOps
