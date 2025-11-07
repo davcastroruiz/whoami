@@ -45,14 +45,14 @@ sidebar:
 career-profile:
     title: Who am I?
     summary: |
-      I am a passionate software engineer with nearly a decade of experience in IT, specializing in developing and optimizing applications across various platforms, including desktop, web, and mobile (iOS). My career at F5 has allowed me to contribute significantly to telemetry and licensing solutions, enhancing the functionality and performance of a diverse portfolio of products.
+      I am a passionate software engineer with nearly a decade of experience in IT, specializing in developing and optimizing applications across various systems and technologies. My career at F5 has allowed me to contribute significantly to telemetry and licensing solutions, enhancing the functionality and performance of a diverse portfolio of products.
 
       My insatiable desire to learn drives me to seek out new challenges and technologies, ensuring I adapt quickly and deliver impactful solutions. I value collaboration, mentorship, and effective communication, fostering a positive and productive team environment.
 
 education:
     - degree: MSc in Computer Science (VR/AR)
       university: Instituto Tecnologico Superior de Zapopan
-      time: 2018 - 2022
+      time: 2022 - 2025
     - degree: BSc in Computer Science Engineering
       university: Instituto Tecnologico Superior de Lagos de Moreno / Instituto Tecnologico de Cancun
       time: 2013 - 2016
@@ -61,18 +61,15 @@ experiences:
       time: 2023 - Present
       company: F5 NETWORKS, GUADALAJARA - REMOTE
       details: |
-        As part of my role in the telemetry and licensing team, I am responsible for designing, building, and supporting the telemetry and mediation solution. This solution helps the company serve as the licensing and telemetry engine for a growing portfolio of F5 products.
-        Responsibilities include:
-        - Backfill scripts
-        - Cleanup scripts
-        - API endpoints creation and maintenance
-        - Bug fixing in our code
-        - Implementing automation whenever possible
-        - CI/CD pipeline maintenance
-        TOOLS:
-          - Typescript
-          - Azure DevOps
-          - NUnit Projects
+        As part of the Telemetry and Licensing team, I design, build, and maintain the telemetry and mediation solutions that power F5’s product licensing ecosystem.
+        My work ensures reliable data flow, automation, and scalability across a growing portfolio of F5 products.
+        Key responsibilities:
+        - Develop and maintain backfill and cleanup scripts
+        - Design and support API endpoints
+        - Troubleshoot and resolve bugs in production code
+        - Implement automation to optimize workflows
+        - Maintain and improve CI/CD pipelines
+        - Tools: TypeScript · Azure DevOps · NUnit
     - role: Software Developer In Test III
       time: 2021 - 2023
       company: F5 NETWORKS, GUADALAJARA - REMOTE
@@ -105,23 +102,9 @@ skills:
     title: Skills & Proficiency
     toolset:
       - name: Python & Django
-        level: 95%
-      - name: HTML5 & CSS
-        level: 95%
-      - name: Power BI
-        level: 92%
-      - name: MongoDB
-        level: 90%
-      - name: SQLDB
-        level: 88%
-      - name: Kubernetes
-        level: 86%
+        level: 75%
       - name: RestFul APIs
         level: 86%
-      - name: Docker
-        level: 85%
-      - name: Javascript & jQuery
-        level: 80%
       - name: Azure DevOps
         level: 70%
       - name: TS & Node
