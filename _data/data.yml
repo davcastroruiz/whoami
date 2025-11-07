@@ -63,14 +63,12 @@ experiences:
       details: |
         As part of the Telemetry and Licensing team, I design, build, and maintain the telemetry and mediation solutions that power F5’s product licensing ecosystem.
         My work ensures reliable data flow, automation, and scalability across a growing portfolio of F5 products.
-        
         Key responsibilities:
         - Develop and maintain backfill and cleanup scripts
         - Design and support API endpoints
         - Troubleshoot and resolve bugs in production code
         - Implement automation to optimize workflows
         - Maintain and improve CI/CD pipelines
-        
         Tools: 
         - TypeScript
         - Azure DevOps
