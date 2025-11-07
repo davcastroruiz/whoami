@@ -63,16 +63,16 @@ experiences:
       details: |
         As part of the Telemetry and Licensing team, I design, build, and maintain the telemetry and mediation solutions that power F5’s product licensing ecosystem.
         My work ensures reliable data flow, automation, and scalability across a growing portfolio of F5 products.
-        Key responsibilities:
+        Key Responsibilities:
         - Develop and maintain backfill and cleanup scripts
         - Design and support API endpoints
         - Troubleshoot and resolve bugs in production code
         - Implement automation to optimize workflows
         - Maintain and improve CI/CD pipelines
-        Tools: 
-        - TypeScript
-        - Azure DevOps
-        - NUnit
+        - Tools: 
+          - TypeScript
+          - Azure DevOps
+          - NUnit
     - role: Software Developer In Test III
       time: 2021 - 2023
       company: F5 NETWORKS, GUADALAJARA - REMOTE
@@ -84,7 +84,7 @@ experiences:
         - Contributing to user stories in the team backlog
         - Involvement in grooming/planning/Scrum meetings
         - Demonstrating knowledge of continuous integration and automation tools
-        TOOLS:
+        - TOOLS:
           - Typescript
           - Azure DevOps
           - NUnit Projects
@@ -100,7 +100,6 @@ experiences:
         - Pair programming
         - TDD strategy along with the roadmap
         - C#/Python development and maintenance projects
-
 skills:
     title: Skills & Proficiency
     toolset:
