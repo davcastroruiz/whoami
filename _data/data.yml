@@ -30,16 +30,16 @@ sidebar:
       - item: Design
         link:
         
-      - item: Music
+      - item: Automation
         link:
 
-      - item: Videogames
-        link:
-
-      - item: Cooking
+      - item: Telemetry
         link:
         
-      - item: VR/AR
+      - item: Generative AI
+        link:
+        
+        - item: Coding
         link:
 
 career-profile:
