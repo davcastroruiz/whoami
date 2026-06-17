@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: True
+    education: True
 
     # Profile information
     name: David Castro
-    tagline: Senior Software Development Engineer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Senior Software Development Engineer | Backend • Platform • AI Automation
+    avatar: profile.jpg
 
     # Sidebar links
     email: davcastroruiz@gmail.com
@@ -24,93 +24,132 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional/Fluent
+        level: Professional
 
     interests:
-      - item: Design
+      - item: Backend Engineering
         link:
-        
+
       - item: Automation
         link:
 
-      - item: Telemetry
+      - item: Telemetry Platforms
         link:
-        
+
       - item: Generative AI
         link:
-        
-        - item: Coding
+
+      - item: Photography
         link:
 
 career-profile:
     title: Who am I?
     summary: |
-      I am a passionate software engineer with nearly a decade of experience in IT, specializing in developing and optimizing applications across various systems and technologies. My career at F5 has allowed me to contribute significantly to telemetry and licensing solutions, enhancing the functionality and performance of a diverse portfolio of products.
+      Senior Software Development Engineer with nearly 10 years of experience designing scalable backend services, automation platforms, and enterprise software solutions.
 
-      My insatiable desire to learn drives me to seek out new challenges and technologies, ensuring I adapt quickly and deliver impactful solutions. I value collaboration, mentorship, and effective communication, fostering a positive and productive team environment.
+      At F5, I build telemetry, licensing, and mediation systems that support a portfolio of 250+ enterprise products. My work focuses on backend development, automation, CI/CD, distributed systems, production reliability, and developer productivity.
+      I enjoy solving complex engineering problems, improving software quality through automation, and collaborating across teams to deliver reliable, maintainable systems. More recently, I've been exploring Generative AI, local LLMs, and AI-powered workflow automation to accelerate software development and engineering operations.
+
+      Core Technologies
+      Backend:
+      - TypeScript, Node.js, Python
+      
+      Cloud & DevOps:
+      - Azure DevOps, Docker, CI/CD, Git
+      
+      Databases:
+      - Cosmos DB, Snowflake, SQL
+      
+      AI:
+      - Generative AI, Ollama, ComfyUI, n8n, Prompt Engineering
+
+      Methodologies:
+      - Agile, Scrum, Code Reviews
 
 education:
     - degree: MSc in Computer Science (Generative AI and Art)
       university: Instituto Tecnologico Superior de Zapopan
       time: 2022 - 2025
+
     - degree: BSc in Computer Science Engineering
       university: Instituto Tecnologico Superior de Lagos de Moreno / Instituto Tecnologico de Cancun
       time: 2013 - 2016
+
 experiences:
     - role: Senior Software Development Engineer
       time: 2023 - Present
-      company: F5 NETWORKS, GUADALAJARA - REMOTE
+      company: F5 Networks | Guadalajara, Mexico (Remote)
       details: |
-        As part of the Telemetry and Licensing team, I design, build, and maintain the telemetry and mediation solutions that power F5’s product licensing ecosystem.
-        My work ensures reliable data flow, automation, and scalability across a growing portfolio of F5 products.
-        - Key Responsibilities:
-          - Develop and maintain backfill and cleanup scripts
-          - Design and support API endpoints
-          - Troubleshoot and resolve bugs in production code
-          - Implement automation to optimize workflows
-          - Maintain and improve CI/CD pipelines
-        - Tools: 
-          - TypeScript
-          - Azure DevOps
-          - NUnit
-    - role: Software Developer In Test III
+        Design and develop telemetry, licensing, and mediation services that power F5's enterprise licensing ecosystem.
+
+        Key Contributions:
+          - Designed and implemented scalable backend services and REST APIs using TypeScript.
+          - Delivered telemetry and licensing integrations across 250+ enterprise products.
+          - Built automation that reduced manual operational effort and improved engineering productivity.
+          - Developed production tools for data migration, backfill, validation, and cleanup.
+          - Improved CI/CD pipelines, automated testing, and deployment workflows.
+          - Investigated and resolved complex production issues across distributed systems.
+          - Collaborated with Product, QA, DevOps, and Engineering teams throughout the Agile lifecycle.
+          - Participated in architecture discussions, technical planning, and code reviews.
+
+        Technologies:
+          • TypeScript • Node.js • Azure DevOps • REST APIs • Docker • Git • NUnit • Cosmos DB • Snowflake • CI/CD
+
+    - role: Software Development Engineer in Test III
       time: 2021 - 2023
-      company: F5 NETWORKS, GUADALAJARA - REMOTE
+      company: F5 Networks | Guadalajara, Mexico (Remote)
       details: |
-        The Software Development Engineer in Test (SDET) is an integral part of the agile delivery team and works with the Software Development Engineers (SDEs) to design, build, and support software deliveries. This team-oriented position develops and executes test automation in cooperation with the rest of the team.
-        - Responsibilities include:
-          - Test automation
-          - Implementing pipeline-driven automated test suites
-          - Contributing to user stories in the team backlog
-          - Involvement in grooming/planning/Scrum meetings
-          - Demonstrating knowledge of continuous integration and automation tools
-        - Tools:
-          - Typescript
-          - Azure DevOps
-          - NUnit Projects
-          - Mocha
-    - role: Software Engineer/Cloud Ops
+        Developed and maintained automated testing solutions for enterprise applications while working closely with software engineers in an Agile environment.
+
+        Key Contributions:
+          - Designed and maintained automated test suites integrated into CI/CD pipelines.
+          - Increased automation coverage for backend services and APIs.
+          - Contributed to feature development when required by the engineering team.
+          - Improved development workflows through automation and testing best practices.
+          - Participated in sprint planning, backlog refinement, and technical design discussions.
+
+        Technologies:
+          TypeScript • NUnit • Mocha • Azure DevOps • CI/CD
+
+    - role: Software Engineer / Cloud Operations
       time: 2018 - 2021
-      company: INTEL, GUADALAJARA
+      company: Intel | Guadalajara, Mexico
       details: |
-        Creates, defines, and develops the system validation environment and test suites. Uses emulation and platform-level tools to ensure performance to specifications. Responsible for executing validation plans and debugging failures.
-        My functions included automation using mainly Jenkins, Ansible, C#, Python, and Bash, as well as data analysis with Power BI.
-        - Kubernetes with Docker/Containerd
-        - Power BI report server administrator
-        - Pair programming
-        - TDD strategy along with the roadmap
-        - C#/Python development and maintenance projects
+        Developed automation solutions supporting large-scale validation infrastructure spanning multiple sites and thousands of compute nodes.
+
+        Key Contributions:
+          - Automated validation workflows using Python, C#, Bash, Jenkins, and Ansible.
+          - Supported Kubernetes and containerized infrastructure using Docker and Containerd.
+          - Built internal tools that improved engineering productivity and reduced manual effort.
+          - Administered Power BI Report Server and developed operational dashboards.
+          - Contributed to TDD practices, pair programming, and continuous improvement initiatives.
+
+        Technologies:
+          Python • C# • Jenkins • Ansible • Docker • Kubernetes • Bash • Power BI
+
 skills:
     title: Skills & Proficiency
     toolset:
-      - name: Python & Django
-        level: 75%
-      - name: RestFul APIs
-        level: 86%
-      - name: Azure DevOps
-        level: 70%
-      - name: TS & Node
-        level: 70%
+      - name: TypeScript / Node.js
+        level: 92%
+      - name: Python
+        level: 88%
+      - name: REST APIs
+        level: 90%
+      - name: Azure DevOps & CI/CD
+        level: 88%
+      - name: Docker
+        level: 90%
+      - name: Git
+        level: 90%
+      - name: Test Automation (NUnit)
+        level: 85%
+      - name: SQL / NoSQL Databases
+        level: 84%
+      - name: Generative AI & LLM Integration
+        level: 82%
+      - name: AI Workflow Automation
+        level: 82%
 
 footer: >
     Designed with Jekyll <i class="fas fa-gamepad"></i>
