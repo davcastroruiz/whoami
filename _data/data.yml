@@ -22,23 +22,17 @@ sidebar:
     languages:
       - idiom: Spanish
         level: Native
-
       - idiom: English
         level: Professional
-
     interests:
       - item: Backend Engineering
         link:
-
       - item: Automation
         link:
-
       - item: Telemetry Platforms
         link:
-
       - item: Generative AI
         link:
-
       - item: Photography
         link:
 
@@ -84,7 +78,13 @@ experiences:
           - Participated in architecture discussions, technical planning, and code reviews.
 
         Technologies:
-          • TypeScript • Node.js • Azure DevOps • REST APIs • Docker • Git • NUnit • Cosmos DB • Snowflake • CI/CD
+          - TypeScript
+          - Node.js
+          - Azure DevOps
+          - REST APIs
+          - Docker
+          - Git • CI/CD
+          - Cosmos DB • Snowflake 
 
     - role: Software Development Engineer in Test III
       time: 2021 - 2023
@@ -100,7 +100,11 @@ experiences:
           - Participated in sprint planning, backlog refinement, and technical design discussions.
 
         Technologies:
-        • TypeScript • NUnit • Mocha • Azure DevOps • CI/CD
+          - TypeScript
+          - NUnit
+          - Mocha
+          - Azure DevOps
+          - CI/CD
 
     - role: Software Engineer / Cloud Operations
       time: 2018 - 2021
@@ -116,7 +120,14 @@ experiences:
           - Contributed to TDD practices, pair programming, and continuous improvement initiatives.
 
         Technologies:
-          • Python • C# • Jenkins • Ansible • Docker • Kubernetes • Bash • Power BI
+          - Python
+          - C#
+          - Jenkins
+          - Ansible
+          - Docker
+          - Kubernetes
+          - Bash
+          - Power BI
 
 skills:
     title: Skills & Proficiency
