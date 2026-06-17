@@ -51,20 +51,11 @@ career-profile:
       I enjoy solving complex engineering problems, improving software quality through automation, and collaborating across teams to deliver reliable, maintainable systems. More recently, I've been exploring Generative AI, local LLMs, and AI-powered workflow automation to accelerate software development and engineering operations.
 
       Core Technologies
-      Backend:
-      - TypeScript, Node.js, Python
-      
-      Cloud & DevOps:
-      - Azure DevOps, Docker, CI/CD, Git
-      
-      Databases:
-      - Cosmos DB, Snowflake, SQL
-      
-      AI:
-      - Generative AI, Ollama, ComfyUI, n8n, Prompt Engineering
-
-      Methodologies:
-      - Agile, Scrum, Code Reviews
+      Backend - TypeScript, Node.js, Python
+      Cloud & DevOps - Azure DevOps, Docker, CI/CD, Git
+      Databases - Cosmos DB, Snowflake, SQL
+      AI- Generative AI, Ollama, ComfyUI, n8n, Prompt Engineering
+      Methodologies - Agile, Scrum, Code Reviews
 
 education:
     - degree: MSc in Computer Science (Generative AI and Art)
@@ -109,7 +100,7 @@ experiences:
           - Participated in sprint planning, backlog refinement, and technical design discussions.
 
         Technologies:
-          TypeScript • NUnit • Mocha • Azure DevOps • CI/CD
+        • TypeScript • NUnit • Mocha • Azure DevOps • CI/CD
 
     - role: Software Engineer / Cloud Operations
       time: 2018 - 2021
@@ -125,7 +116,7 @@ experiences:
           - Contributed to TDD practices, pair programming, and continuous improvement initiatives.
 
         Technologies:
-          Python • C# • Jenkins • Ansible • Docker • Kubernetes • Bash • Power BI
+          • Python • C# • Jenkins • Ansible • Docker • Kubernetes • Bash • Power BI
 
 skills:
     title: Skills & Proficiency
