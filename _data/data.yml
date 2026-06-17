@@ -44,12 +44,12 @@ career-profile:
       At F5, I build telemetry, licensing, and mediation systems that support a portfolio of 250+ enterprise products. My work focuses on backend development, automation, CI/CD, distributed systems, production reliability, and developer productivity.
       I enjoy solving complex engineering problems, improving software quality through automation, and collaborating across teams to deliver reliable, maintainable systems. More recently, I've been exploring Generative AI, local LLMs, and AI-powered workflow automation to accelerate software development and engineering operations.
 
-      Core Technologies
-      Backend - TypeScript, Node.js, Python
-      Cloud & DevOps - Azure DevOps, Docker, CI/CD, Git
-      Databases - Cosmos DB, Snowflake, SQL
-      AI- Generative AI, Ollama, ComfyUI, n8n, Prompt Engineering
-      Methodologies - Agile, Scrum, Code Reviews
+      Core Technologies:
+      - Backend: TypeScript, Node.js, Python
+      - Cloud & DevOps: Azure DevOps, Docker, CI/CD, Git
+      - Databases: osmos DB, Snowflake, SQL
+      - AI: Generative AI, Ollama, ComfyUI, n8n, Prompt Engineering
+      - Methodologies: Agile, Scrum, Code Reviews
 
 education:
     - degree: MSc in Computer Science (Generative AI and Art)
