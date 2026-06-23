@@ -47,8 +47,8 @@ career-profile:
       Core Technologies:
       - Backend: TypeScript, Node.js, Python
       - Cloud & DevOps: Azure DevOps, Docker, CI/CD, Git
-      - Databases: osmos DB, Snowflake, SQL
-      - AI: Generative AI, Ollama, ComfyUI, n8n, Prompt Engineering
+      - Databases: Cosmos DB, Snowflake, SQL
+      - AI: Agents, Skills, Generative AI, Ollama, ComfyUI, n8n, Prompt Engineering
       - Methodologies: Agile, Scrum, Code Reviews
 
 education:
