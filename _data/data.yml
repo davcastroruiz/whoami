@@ -86,14 +86,15 @@ experiences:
           - Git • CI/CD
           - Cosmos DB • Snowflake 
 
-    - role: Software Development Engineer in Test III
+    - role: Software Development Engineer III
       time: 2021 - 2023
       company: F5 Networks | Guadalajara, Mexico (Remote)
       details: |
-        Developed and maintained automated testing solutions for enterprise applications while working closely with software engineers in an Agile environment.
+        Developed and maintained automated solutions for enterprise applications while working closely with software engineers in an Agile environment.
+        Design and develop telemetry, licensing, and mediation services that power F5's enterprise licensing ecosystem.
 
         Key Contributions:
-          - Designed and maintained automated test suites integrated into CI/CD pipelines.
+          - Designed and maintained automated test and code suites integrated into CI/CD pipelines.
           - Increased automation coverage for backend services and APIs.
           - Contributed to feature development when required by the engineering team.
           - Improved development workflows through automation and testing best practices.
